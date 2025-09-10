@@ -3,8 +3,19 @@
 - Initial Side
 - Terminal Side
 - Reference angle
-- 
 
+## Rules
+- Sine rule
+- Cosine rule
+
+## Identities
+### Reciprocal identities
+
+### Pythagoras identities
+
+### Sum and Difference identities
+
+### Double angle identities
 
 ## Youtube
 - https://www.youtube.com/shorts/28NMgU9WgCU 5⭐ Finger trick to find sin/cos/tan between 0 - 90

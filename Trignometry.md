@@ -9,13 +9,35 @@
 - Cosine rule
 
 ## Identities
+### Quotient Identities
+- tanθ = sinθ / cosθ
+- cotθ = cosθ / sinθ
+
 ### Reciprocal identities
+- cosecθ = 1/sinθ
+- secθ = 1/cosθ
+- cotθ = 1/tanθ
 
 ### Pythagoras identities
+- sin²θ + cos²θ = 1
+- tan²θ + 1 = sec²θ
+- 1 + cot²θ = cosec²θ
 
-### Sum and Difference identities
+### Double-angle Identities
 
-### Double angle identities
+### Triple-angle Identities
+
+### Sum and Difference Identities
+- sin(A + B) = sinA.cosB + cosA.sinB
+- sin(A - B) = sinA.cosB - cosA.sinB
+- cos(A + B) = cosA.cosB - sinA.sinB
+- cos(A - B) = cosA.cosB + sinA.sinB
+
+- E.g cos 5π/12
+### Allied Angle Identities
+
+
+
 
 ## Youtube
 - https://www.youtube.com/shorts/28NMgU9WgCU 5⭐ Finger trick to find sin/cos/tan between 0 - 90

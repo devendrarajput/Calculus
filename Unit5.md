@@ -69,3 +69,29 @@
 > Find all critical points
 > g(x) = 1 / sqrt(4-x²)
 > q6.png
+
+## Increasing or Decreasing intervals
+- g7.png
+- By looking at the graph we can say critical points are located at 
+    - x = 3 as f'(x)=0
+    - x = 5 as f'(x)=0
+    - x = 6 as f'(x)=DNE because we have a cusp
+
+    so lets create a sign chart 
+    - sc.png
+> [Q7]
+> Find the intervals on which the function f(x)= -x² -4x -1 is increasing and decreasing
+> a. First find the critical points
+> b. In between x-values, the derivative must be positive or negative
+> c. Draw sign chart
+> q7.png
+> Required justification: 
+>   f(x) is increasing on (-∞, -2) since f'(x) > 0
+>   f(x) is decreasing on (-2, ∞) since f'(x) < 0
+
+> [Q8]
+> Find the intervals on which the function f(x) = 1/3 x³ - x² - 15x + 2 is increasing and decreasing and justify your answers.
+> q8.png
+
+
+

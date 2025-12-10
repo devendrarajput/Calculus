@@ -1,10 +1,10 @@
 # Unit 5 - Analytical Application of Differentiation
 
 ## MVT - Mean Value Theorem
-- 2nd existance theorem
-    - Condition 1: f(x) should be continious in closed interval [a,b] i.e pictorically no holes, jumps e.t.c
-    - Condition 2: f(x) should be differentiable in open interval (a,b) i.e pictorically no cusps
-    - There exists a point c between a and b, where instantaneous rate of change = Average rate of change i.e pictorically Slope of (a,f(a)) and (b,f(b)) =  Slope of f'(x)
+- 2nd existence theorem
+    - Condition 1: f(x) should be continuous in closed interval [a, b] i.e pictorially no holes, jumps e.t.c
+    - Condition 2: f(x) should be differentiable in open interval (a,b) i.e pictorially no cusps
+    - There exists a point c between a and b, where instantaneous rate of change = Average rate of change i.e pictorially Slope of (a,f(a)) and (b,f(b)) =  Slope of f'(x)
     - Average rate of change = f(b) - f(a) / b - a
     - mvt.png
 
@@ -15,19 +15,19 @@
 
 ## IVT - Intermediate Value Theorem
 - 1st existance theorem
-    - Condition 1: f(x) should be continious in closed interval [a,b] i.e pictorically no holes, jumps e.t.c
+    - Condition 1: f(x) should be continuous in closed interval [a, b] i.e pictorially no holes, jumps e.t.c
     - For a given interval [a, b] the y values at endpoints will be f(a) and f(b)
-    - IVT gaurtees that any value of y that lies between f(a) and f(b) will always exist atleast once on the fuction within the interval [a, b]
+    - IVT guaranteed that any value of y that lies between f(a) and f(b) will always exist at least once on the function within the interval [a, b]
 
 > [Q2]
 > q2.png
-> a) Yes, since the function is twice diffentiable, it must be continous. So, the IVT applies: since h(5)=40 and h(15)=70, there must be a time c within interval [5, 15] such that h(c)=50
+> a) Yes, since the function is twice differentiable, it must be continuous. So, the IVT applies: since h(5)=40 and h(15)=70, there must be a time c within interval [5, 15] such that h(c)=50
 > b) IVT doesn't apply as v(20)=2 and v(30)=4 and 1.5 doesn't lie within this interval
 > Avg rate of change = h(30)-h(20)/(30-20) = (80-65)/10 = 15/10 = 1.5
-> Since the funtion h(t) is diffentiable, it must be continous. The MVT applies and there must be some value c in interval [20,30] such that f'(c) = 1.5
+> Since the function h(t) is diffentiable, it must be continous. The MVT applies and there must be some value c in interval [20,30] such that f'(c) = 1.5
 
 ## EVT - Extreme Value Theorem
-   - Condition 1: f(x) should be continious in closed interval [a,b] i.e pictorically no holes, jumps e.t.c
+   - Condition 1: f(x) should be continuous in closed interval [a, b] i.e pictorially no holes, jumps e.t.c
    - EVT gaurantees that f has alease one minimum value and at least on maximum value on [a, b]
 
 ## Extrema

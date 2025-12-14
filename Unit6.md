@@ -77,9 +77,50 @@
 ## 6.3 skipped
 
 ## 6.4 The fundamental theorem of Calculus and Accumulation functions
+- Integral Definition and symbol
+    - 🎦 F6.4.1.PNG
+- Definite Integral
+- Indefinite Integral
+- Accumulation function: We know the interval starts at a, but we do not know where it stops. Represented by F(x) aka Anti-derivative 
+- 🎦 F6.4.2.PNG
+- Fundamental Theorem of Calculus FTC
+    - Derivation of F(x) is f(x)
+    - Derivatives and Integrals are inverses e.g. multiply/division.
+- Variations of the FTC
+    - 🎦 F6.4.3.PNG
+- 🎦 F6.4.4.PNG
+    - Ans: 🎦 F6.4.5.PNG
 
 ## Interpreting the behavior of Accumulation Functions involving area
-
+- for a given function f(x)
+    - increasing -> f'(x) > 0
+    - decreasing -> f'(x) < 0
+    - relative max -> f'(x) changes sign from +ve to -ve
+    - relative min -> f'(x) changes sign from -ve to +ve
+    - concave up -> f''(x)>0
+    - concave down -> f''(x)<0
+    - a point of inflection -> f''(x) changes sign
+- 🎦 F6.4.6.PNG
+    - Ans: 🎦 F6.4.7.PNG
+- 🎦 F6.4.8.PNG
+    - Ans: 🎦 F6.4.9.PNG
+- 🎦 F6.4.10.PNG
+    - Ans: 🎦 F6.4.11.PNG
+## Video5 - Mid unit review
+- 🎦 F6.5.1.PNG
+    - Ans: 🎦 F6.5.2.PNG
+- 🎦 F6.5.3.PNG
+    - Ans: 🎦 F6.5.4.PNG
+- 🎦 F6.5.5.PNG
+    - Ans: B
+- 🎦 F6.5.6.PNG
+    - Ans: 🎦 F6.5.7.PNG
+- 🎦 F6.5.8.PNG
+    - Ans: 🎦 F6.5.9.PNG
+- 🎦 F6.5.10.PNG
+    - Ans: 🎦 F6.5.11.PNG
+- 🎦 F6.5.12.PNG
+    - Ans: 🎦 F6.5.13.PNG
 ## 6.6 Applying properties of Definite Integrals
 
 ## 6.7 Anti-derivative

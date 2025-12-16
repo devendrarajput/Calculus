@@ -135,8 +135,8 @@
 > Looking at the graph of f'(x), identify extremas
 > 🎦 Q13.PNG
 > As critical points are located where f'(x) is 0, so x=1 and x=3 will be Critical Points
-> At x=1, as f'(x) is going from +ve to -ve, it will be a local maxima
-> At x=3, as f'(x) is going from -ve to +ve, it will be a local minima
+> At x=1, as f'(x) is going from + to -, it will be a local maxima
+> At x=3, as f'(x) is going from - to +, it will be a local minima
 > For finding absolute Maxima and Minima we also have to consider endpoints i.e. x=-3 and x=4
 > As f'(x) is +ve from x=-3 till x=1 and then goes to -ve for sometime, we should have absolute maxima at x=1
 > similarly we have a absolute minima at x=3 
@@ -148,12 +148,12 @@
 - Big idea 🎦 13.PNG
 
 - 2nd derivative test algorithm
-    - Step1: find first derivative only
-    - Step2: find second derivative
-    - Step3: Set f"(x) to 0 and find inflection points
-    - Step4: Draw sign chart using inflection points
-    - Step5: Mark interval as concave-up when f"(x) is +ve
-    - Step6: Mark interval as concave-down when f"(x) is -ve
+    - Step 1: find first derivative only
+    - Step 2: find second derivative
+    - Step 3: Set f''(x) to 0 and find inflection points
+    - Step 4: Draw sign chart using inflection points
+    - Step 5: Mark interval as concave-up when f''(x) is +ve
+    - Step 6: Mark interval as concave-down when f''(x) is -ve
 
 > [Q14]
 > f(x)= 1/4x⁴-6x²+x-3

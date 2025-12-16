@@ -21,7 +21,7 @@
 - German mathematician Bernhard Riemann
 - 🎦 F6.2.1.PNG
     - Use Left Riemann method with n=1,2,3,4 sub-intervals
-    - More rectangle gives better estimation
+    - More intervals gives better estimation
 - Left Riemann Sum for Graph
     - Below is the graph of f(x)=4x-1/2x². Use Left Riemann sum to find the approximation
       of the area under the curve on the interval [2,8], use 3 sub-intervals
@@ -95,8 +95,8 @@
 - for a given function f(x)
     - increasing -> f'(x) > 0
     - decreasing -> f'(x) < 0
-    - relative max -> f'(x) changes sign from +ve to -ve
-    - relative min -> f'(x) changes sign from -ve to +ve
+    - relative max -> f'(x) changes sign from + to -
+    - relative minima -> f'(x) changes sign from - to +
     - concave up -> f''(x)>0
     - concave down -> f''(x)<0
     - a point of inflection -> f''(x) changes sign
@@ -106,7 +106,8 @@
     - Ans: 🎦 F6.4.9.PNG
 - 🎦 F6.4.10.PNG
     - Ans: 🎦 F6.4.11.PNG
-## Video5 - Mid unit review
+
+## Video 5 - Mid unit review
 - 🎦 F6.5.1.PNG
     - Ans: 🎦 F6.5.2.PNG
 - 🎦 F6.5.3.PNG
@@ -121,7 +122,30 @@
     - Ans: 🎦 F6.5.11.PNG
 - 🎦 F6.5.12.PNG
     - Ans: 🎦 F6.5.13.PNG
+
 ## 6.6 Applying properties of Definite Integrals
+- Properties of Definite Integrals
+    - 🎦 U6_V6_F1.PNG
+    - Equivalent Limits
+    - Reversal of Limits
+    - Multiply by constant
+    - Adjacent Intervals
+    - Addition
+    - Subtraction
+    
+- 🎦 U6_V6_Q1.PNG
+- 🎦 U6_V6_Q2.PNG
+    - Ans: 4.5
+    - 🎦 U6_V6_A2.PNG
+- 🎦 U6_V6_Q3.PNG
+    - Ans: 6.5
+    - 🎦 U6_V6_A3.PNG
+- 🎦 U6_V6_Q4.PNG
+    - U6_V6_A4_1.PNG
+    - U6_V6_A4_2.PNG
+- 🎦 U6_V6_Q4.PNG
+    - Ans: 1.219
+    - Ans: -4
 
 ## 6.7 Anti-derivative
 

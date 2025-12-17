@@ -139,20 +139,20 @@
     - Ans: 🎦 
 
 ## Video 5 - Mid unit review
-- 🎦 F6.5.1.PNG
-    - Ans: 🎦 F6.5.2.PNG
-- 🎦 F6.5.3.PNG
-    - Ans: 🎦 F6.5.4.PNG
-- 🎦 F6.5.5.PNG
+- 🎦 U6_V5_Q1.PNG
+    - Ans: 🎦 U6_V5_A1.PNG
+- 🎦 U6_V5_Q2.PNG
+    - Ans: 🎦 U6_V5_A2.PNG
+- 🎦 U6_V5_Q3.PNG
     - Ans: B
-- 🎦 F6.5.6.PNG
-    - Ans: 🎦 F6.5.7.PNG
-- 🎦 F6.5.8.PNG
-    - Ans: 🎦 F6.5.9.PNG
-- 🎦 F6.5.10.PNG
-    - Ans: 🎦 F6.5.11.PNG
-- 🎦 F6.5.12.PNG
-    - Ans: 🎦 F6.5.13.PNG
+- 🎦 U6_V5_Q4.PNG
+    - Ans: 🎦 U6_V5_A4.PNG
+- 🎦 U6_V5_Q5.PNG
+    - Ans: 🎦 U6_V5_A5.PNG
+- 🎦 U6_V5_Q6.PNG
+    - Ans: 🎦 U6_V5_A6.PNG
+- 🎦 U6_V5_Q7.PNG
+    - Ans: 🎦 U6_V5_A7.PNG
 
 ## 6.6 Applying properties of Definite Integrals
 - Properties of Definite Integrals
@@ -194,6 +194,7 @@
     - 🎦 U6_V7_A2_3.PNG
 - 🎦 U6_V7_Q3.PNG
     - 🎦 U6_V7_A3.PNG
+
 ## 6.8 Indefinite Integrals
 - Exponential Rule:
     - 🎦 U6_V8_F1.PNG

@@ -3,8 +3,8 @@
 ### 6.1 Accumulation of Change
 - Area Under the Curve
     - Area between the function and x-axis
-    - Area above the x-axis is considered +ve
-    - Area below the x-axis is considered -ve
+    - Area above the x-axis is considered +
+    - Area below the x-axis is considered -
     - 🎦 U6_V1_Q1.PNG
         - 🎦 U6_V1_A1.PNG
 - Area under the curve for a "Rate of change" function is called "Accumulation of change"
@@ -154,17 +154,18 @@
 - 🎦 U6_V5_Q7.PNG
     - Ans: 🎦 U6_V5_A7.PNG
 
-## 6.6 Applying properties of Definite Integrals
+## Video 6
+### 6.6 Applying properties of Definite Integrals
 - Properties of Definite Integrals
     - 🎦 U6_V6_F1.PNG
-    - Equivalent Limits
-    - Reversal of Limits
-    - Multiply by constant
-    - Adjacent Intervals
-    - Addition
-    - Subtraction
-    
+        - Equivalent Limits
+        - Reversal of Limits
+        - Multiply by constant
+        - Adjacent Intervals
+        - Addition
+        - Subtraction
 - 🎦 U6_V6_Q1.PNG
+    - 🎦 U6_V6_A1.PNG
 - 🎦 U6_V6_Q2.PNG
     - Ans: 4.5
     - 🎦 U6_V6_A2.PNG
@@ -174,11 +175,12 @@
 - 🎦 U6_V6_Q4.PNG
     - U6_V6_A4_1.PNG
     - U6_V6_A4_2.PNG
-- 🎦 U6_V6_Q4.PNG
+- 🎦 U6_V6_Q5.PNG
     - Ans: 1.219
     - Ans: -4
 
-## 6.7 Anti-derivative
+## Video 7
+### 6.7 Anti-derivative
 - Power rule: 
     - Add one to the exponent
     - Divide by the new exponent
@@ -195,10 +197,10 @@
 - 🎦 U6_V7_Q3.PNG
     - 🎦 U6_V7_A3.PNG
 
-## 6.8 Indefinite Integrals
+## Video 8
+### 6.8 Indefinite Integrals
 - Exponential Rule:
     - 🎦 U6_V8_F1.PNG
-
 - 🎦 U6_V8_Q1.PNG
     - 🎦 U6_V8_A1_1.PNG
     - 🎦 U6_V8_A1_2.PNG

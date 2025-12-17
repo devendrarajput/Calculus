@@ -1,6 +1,6 @@
 # AP Calculus AB Unit 6
-
-## 6.1 Accumulation of Change
+## Video 1
+### 6.1 Accumulation of Change
 - Area Under the Curve
     - Area between the function and x-axis
     - Area above the x-axis is considered +ve
@@ -22,7 +22,8 @@
         - Ans: At t=8 the particle will be 60 cm left from where it was at t=2
 - Focus on regular shapes like triangle, square etc.
 
-## 6.2 Approximating areas with Riemann Sums
+## Video 2
+### 6.2 Approximating areas with Riemann Sums
 - Focus on irregular shapes like curve
 - German mathematician Bernhard Riemann
 - 🎦 U6_V2_Q1.PNG
@@ -97,38 +98,45 @@
     - 🎦 U6_V2_A7_3.PNG
     - Ans: 213 gallons    
 
-## 6.3 skipped
+### 6.3 skipped
 
-## 6.4 The fundamental theorem of Calculus and Accumulation functions
-- Integral Definition and symbol
-    - 🎦 F6.4.1.PNG
-- Definite Integral
-- Indefinite Integral
-- Accumulation function: We know the interval starts at a, but we do not know where it stops. Represented by F(x) aka Anti-derivative 
-- 🎦 F6.4.2.PNG
+## Video 3
+### 6.4 The fundamental theorem of Calculus and Accumulation functions
+- Integral
+    - Integral allows us to find exact area under the curve unlike Riemann Sum
+    - Integral Definition and symbol
+        - 🎦 U6_V3_F1.PNG
+    - Definite Integral: Limits are defined
+    - Indefinite Integral: Limits are not defined
+- Accumulation function
+    -  We know the interval starts at a, but we do not know where it stops. Represented by F(x) aka Anti-derivative 
+    - 🎦 U6_V3_Q1.PNG
+        - 🎦 U6_V3_A1.PNG
 - Fundamental Theorem of Calculus FTC
+    - 🎦 U6_V3_F2.PNG
     - Derivation of F(x) is f(x)
     - Derivatives and Integrals are inverses e.g. multiply/division.
 - Variations of the FTC
-    - 🎦 F6.4.3.PNG
-- 🎦 F6.4.4.PNG
-    - Ans: 🎦 F6.4.5.PNG
+    - 🎦 U6_V3_F3.PNG
+- 🎦 U6_V3_Q2.PNG
+    - Ans: 🎦 U6_V3_A2.PNG
 
-## Interpreting the behavior of Accumulation Functions involving area
+## Video 4
+### Interpreting the behavior of Accumulation Functions involving area
 - for a given function f(x)
-    - increasing -> f'(x) > 0
-    - decreasing -> f'(x) < 0
-    - relative max -> f'(x) changes sign from + to -
-    - relative minima -> f'(x) changes sign from - to +
-    - concave up -> f''(x)>0
-    - concave down -> f''(x)<0
-    - a point of inflection -> f''(x) changes sign
-- 🎦 F6.4.6.PNG
-    - Ans: 🎦 F6.4.7.PNG
-- 🎦 F6.4.8.PNG
-    - Ans: 🎦 F6.4.9.PNG
-- 🎦 F6.4.10.PNG
-    - Ans: 🎦 F6.4.11.PNG
+    - Increasing -> f'(x) > 0
+    - Decreasing -> f'(x) < 0
+    - Relative maxima -> f'(x) changes sign from + to -
+    - Relative minima -> f'(x) changes sign from - to +
+    - Concave up -> f''(x)>0
+    - Concave down -> f''(x)<0
+    - Inflection point -> f''(x) changes sign
+- 🎦 U6_V4_Q1.PNG
+    - Ans: 🎦 U6_V4_A1.PNG
+- 🎦 U6_V4_Q2.PNG
+    - Ans: 🎦 U6_V4_A2.PNG
+- 🎦 U6_V4_Q3.PNG
+    - Ans: 🎦 
 
 ## Video 5 - Mid unit review
 - 🎦 F6.5.1.PNG

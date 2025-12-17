@@ -76,23 +76,27 @@
     - The rate at which water is being pumped into a tank is given by the continuous and increasing
     function R(t). A table of selected values of R(t), for the time interval 0<t<12 minutes is given
     below in table 🎦 U6_V2_Q7.PNG. Use LRS with 4 sub-intervals
-    - Ans: 183 gallons    
+    - 🎦 U6_V2_A7_1.PNG
+    - Ans: 183 gallons. Under estimate   
 - Right Riemann Sum for Table
     - The rate at which water is being pumped into a tank is given by the continuous and increasing
     function R(t). A table of selected values of R(t), for the time interval 0<t<12 minutes is given
     below in table 🎦 U6_V2_Q7.PNG. Use RRS with 4 sub-intervals
-    - Ans: 273 gallons    
+    - 🎦 U6_V2_A7_2.PNG
+    - Ans: 273 gallon. Over estimate    
 - Midpoint Riemann Sum for Table
     - The rate at which water is being pumped into a tank is given by the continuous and increasing
     function R(t). A table of selected values of R(t), for the time interval 0<t<12 minutes is given
     below in table 🎦 U6_V2_Q7.PNG. Use MRS with 2 sub-intervals
+    - 🎦 U6_V2_A7_3.PNG
     - Ans: 216 gallons    
 - Trapezoidal Riemann Sum for Table
     - The rate at which water is being pumped into a tank is given by the continuous and increasing
     function R(t). A table of selected values of R(t), for the time interval 0<t<12 minutes is given
     below in table 🎦 U6_V2_Q7.PNG. Use TRS with 4 sub-intervals
+    - 🎦 U6_V2_A7_3.PNG
     - Ans: 213 gallons    
-        - For a concave up function TRS gives under-estimate
+
 ## 6.3 skipped
 
 ## 6.4 The fundamental theorem of Calculus and Accumulation functions

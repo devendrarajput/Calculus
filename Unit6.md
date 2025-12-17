@@ -5,15 +5,21 @@
     - Area between the function and x-axis
     - Area above the x-axis is considered +ve
     - Area below the x-axis is considered -ve
-    - 🎦 F6.1.1.PNG
+    - 🎦 U6_V1_Q1.PNG
+        - 🎦 U6_V1_A1.PNG
 - Area under the curve for a "Rate of change" function is called "Accumulation of change"
     - How to find units for "Area under the curve"
         - Multiply units on y-axis with x-axis and simplify by cutting out the common units
-    - 🎦 F6.1.2.PNG
-    - 🎦 F6.1.3.PNG
+    - 🎦 U6_V1_Q2.PNG
+        - 🎦 U6_V1_A2.PNG
+        - Ans: 240 Miles
+    - 🎦 U6_V1_Q3.PNG
+        - 🎦 U6_V1_A3.PNG
         - Ans: 15+2Pi gallons or 21.283 gallons
-    - 🎦 F6.1.4.PNG
+    - 🎦 U6_V1_Q4.PNG
+        - 🎦 U6_V1_A4.PNG
         - Ans: Particle will end 40 cm to the left of where it started
+        - Ans: At t=8 the particle will be 60 cm left from where it was at t=2
 - Focus on regular shapes like triangle, square etc.
 
 ## 6.2 Approximating areas with Riemann Sums
@@ -148,6 +154,32 @@
     - Ans: -4
 
 ## 6.7 Anti-derivative
-
+- Power rule: 
+    - Add one to the exponent
+    - Divide by the new exponent
+- 🎦 U6_V7_Q1.PNG
+    - U6_V7_A1_1.PNG
+    - U6_V7_A1_2.PNG
+    - U6_V7_A1_3.PNG
+- Trig rule:
+    - 🎦 U6_V7_F1.PNG
+- 🎦 U6_V7_Q2.PNG
+    - 🎦 U6_V7_A2_1.PNG
+    - 🎦 U6_V7_A2_2.PNG
+    - 🎦 U6_V7_A2_3.PNG
+- 🎦 U6_V7_Q3.PNG
+    - 🎦 U6_V7_A3.PNG
 ## 6.8 Indefinite Integrals
+- Exponential Rule:
+    - 🎦 U6_V8_F1.PNG
+
+- 🎦 U6_V8_Q1.PNG
+    - 🎦 U6_V8_A1_1.PNG
+    - 🎦 U6_V8_A1_2.PNG
+
+- Log Rule:
+    - 🎦 U6_V8_F2.PNG
+- 🎦 U6_V8_Q2.PNG
+    - 🎦 U6_V8_A2_1.PNG
+    - 🎦 U6_V8_A2_2.PNG
 

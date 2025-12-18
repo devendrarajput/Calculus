@@ -215,3 +215,19 @@
     - 🎦 U6_V8_A2_1.PNG
     - 🎦 U6_V8_A2_2.PNG
 
+- Trig Integrals Rule:
+    - 🎦 U6_V8_F3.PNG
+- 🎦 U6_V8_Q3.PNG
+    - 🎦 U6_V8_A3_1.PNG
+    - 🎦 U6_V8_A3_2.PNG
+
+- Inverse Trig
+    - 🎦 U6_V8_F4.PNG
+- 🎦 U6_V8_Q4.PNG
+    - 🎦 U6_V8_A4_1.PNG
+    - 🎦 U6_V8_A4_2.PNG
+    - 🎦 U6_V8_A4_3.PNG
+    - 🎦 U6_V8_A4_4.PNG
+
+    
+

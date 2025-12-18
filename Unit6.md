@@ -138,7 +138,8 @@
 - 🎦 U6_V4_Q3.PNG
     - Ans: 🎦 
 
-## Video 5 - Mid unit review
+## Video 5
+### Mid unit review
 - 🎦 U6_V5_Q1.PNG
     - Ans: 🎦 U6_V5_A1.PNG
 - 🎦 U6_V5_Q2.PNG
@@ -190,6 +191,9 @@
     - U6_V7_A1_3.PNG
 - Trig rule:
     - 🎦 U6_V7_F1.PNG
+- FTC rule:
+    - 🎦 U6_V7_F2.PNG
+    - As this is for definite integration, we don't add C
 - 🎦 U6_V7_Q2.PNG
     - 🎦 U6_V7_A2_1.PNG
     - 🎦 U6_V7_A2_2.PNG

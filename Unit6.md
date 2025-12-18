@@ -229,5 +229,20 @@
     - 🎦 U6_V8_A4_3.PNG
     - 🎦 U6_V8_A4_4.PNG
 
-    
-
+## Video 9
+### Integration using Substitution
+- Look at the integrand, if the derivative requires the chain rule, then the antiderivative will require u-substitution
+- Indefinite Integrals
+    - 🎦 U6_V9_Q1.PNG
+        - 🎦 U6_V9_A1_1.PNG
+        - 🎦 U6_V9_A1_2.PNG
+        - 🎦 U6_V9_A1_3.PNG
+        - 🎦 U6_V9_A1_4.PNG
+        - 🎦 U6_V9_A1_5.PNG
+    - 🎦 U6_V9_Q2.PNG
+        - 🎦 U6_V9_A2_1.PNG
+        - 🎦 U6_V9_A2_2.PNG
+- Definite Integrals
+    - 🎦 U6_V9_Q3.PNG
+        - 🎦 U6_V9_A3_1.PNG
+        - 🎦 U6_V9_A3_2.PNG

@@ -246,3 +246,30 @@
     - 🎦 U6_V9_Q3.PNG
         - 🎦 U6_V9_A3_1.PNG
         - 🎦 U6_V9_A3_2.PNG
+
+## Video 10
+### 6.14 Selecting techniques for Antidifferntiation
+- Power Rule
+- U-Substitution
+- Trigonometry
+- Inverse Trigonometry
+- Exponentials & Logarithms
+- Long Division
+- Completing the square
+
+## Video 11
+### End of unit review
+- 🎦 U6_V11_Q1.PNG
+    - 🎦 U6_V11_A1_1.PNG
+    - 🎦 U6_V11_A1_2.PNG
+    - 🎦 U6_V11_A1_3.PNG
+    - 🎦 U6_V11_A1_4.PNG
+    - 🎦 U6_V11_A1_5.PNG
+
+    - 🎦 U6_V11_A1_6.PNG
+    - 🎦 U6_V11_A1_7.PNG
+    - 🎦 U6_V11_A1_8.PNG
+    - 🎦 U6_V11_A1_9.PNG
+    - 🎦 U6_V11_A1_1.PNG
+    - 🎦 U6_V11_A1_1.PNG
+https://youtu.be/cY6gpekXeGw?list=PLs6noPJIno5SZwmCAXUDPjKcb13ArF5-y&t=925

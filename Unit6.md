@@ -265,11 +265,12 @@
     - 🎦 U6_V11_A1_3.PNG
     - 🎦 U6_V11_A1_4.PNG
     - 🎦 U6_V11_A1_5.PNG
-
     - 🎦 U6_V11_A1_6.PNG
-    - 🎦 U6_V11_A1_7.PNG
-    - 🎦 U6_V11_A1_8.PNG
-    - 🎦 U6_V11_A1_9.PNG
-    - 🎦 U6_V11_A1_1.PNG
-    - 🎦 U6_V11_A1_1.PNG
-https://youtu.be/cY6gpekXeGw?list=PLs6noPJIno5SZwmCAXUDPjKcb13ArF5-y&t=925
+- 🎦 U6_V11_Q2.PNG
+    - 🎦 U6_V11_A2.PNG
+- 🎦 U6_V11_Q3.PNG
+    - 🎦 U6_V11_A3_1.PNG
+    - 🎦 U6_V11_A3_2.PNG
+    - 🎦 U6_V11_A3_3.PNG
+    - 🎦 U6_V11_A3_4.PNG
+    - 🎦 U6_V11_A3_5.PNG

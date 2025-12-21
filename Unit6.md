@@ -84,7 +84,7 @@
     function R(t). A table of selected values of R(t), for the time interval 0<t<12 minutes is given
     below in table 🎦 U6_V2_Q7.PNG. Use RRS with 4 sub-intervals
     - 🎦 U6_V2_A7_2.PNG
-    - Ans: 273 gallon. Over estimate    
+    - Ans: 243 gallon. Over estimate    
 - Midpoint Riemann Sum for Table
     - The rate at which water is being pumped into a tank is given by the continuous and increasing
     function R(t). A table of selected values of R(t), for the time interval 0<t<12 minutes is given

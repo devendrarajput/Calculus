@@ -6,17 +6,18 @@
 
 ## Rules
 - Sine rule
+    - a / sinA = b / sinB = c / sinC
 - Cosine rule
-
+    - c² = a² + b² - 2abcosC
 ## Identities
+### Reciprocal Identities
+- cscθ = 1 / sinθ
+- secθ = 1 / cosθ
+- cotθ = 1 / tanθ
+
 ### Quotient Identities
 - tanθ = sinθ / cosθ
 - cotθ = cosθ / sinθ
-
-### Reciprocal identities
-- cosecθ = 1/sinθ
-- secθ = 1/cosθ
-- cotθ = 1/tanθ
 
 ### Pythagoras identities
 - sin²θ + cos²θ = 1 🎦 TRIG_PY_ID_1.PNG
@@ -24,28 +25,37 @@
 - 1 + cot²θ = cosec²θ 🎦 TRIG_PY_ID_3.PNG
 
 ### Sum and Difference Identities
-- sin(A + B) = sin(A).cos(B) + cos(A).sin(B)
-- sin(A - B) = sin(A).cos(B) - cos(A).sin(B)
-- cos(A + B) = cos(A).cos(B) - Sin(A).Sin(B)
-- cos(A - B) = cos(A).cos(B) + sin(A).sin(B)
-- tan(A + B) = (tan(A) + tan(B)) / (1 - tan(A).tan(B))
-- tan(A - B) = (tan(A) - tan(B)) / (1 + tan(A).tan(B))
+- sin(A + B) = sinA.cosB + cosA.sinB
+- sin(A - B) = sinA.cosB - cosA.sinB
+- cos(A + B) = cosA.cosB - SinA.SinB
+- cos(A - B) = cosA.cosB + sinA.sinB
+- tan(A + B) = (tanA + tanB) / (1 - tanA.tanB)
+- tan(A - B) = (tanA - tanB) / (1 + tanA.tanB)
 
 ### Allied Angle Identities
 - e.g. cos 5π/12, cos 105
 
 ### Half-angle Identities
-- E.g. cos 22.5
-- sin(θ/2) = +/- sqrt((1-cosθ)/2)
+- sin(θ/2) = +/- sqrt((1-cosθ)/2) 🎦 TRIG_HF_AG_ID_1.PNG
 - cos(θ/2) = +/- sqrt((1+cosθ)/2)
 - tan(θ/2) = +/- sqrt((1-cosθ)/(1+cosθ))
 
+- Sample problems:
+    - E.g. cos 22.5 https://www.youtube.com/watch?v=uFbbF-IYFjM
+    - https://www.youtube.com/watch?v=Q48HHoLauyg
+    - https://www.youtube.com/watch?v=FFXaeJYaGVY
+
 ### Double-angle Identities
 - sin2θ = 2sinθcosθ 🎦 TRIG_DB_AG_ID_1.PNG
-- cos2θ = cos²θ - sin²θ
+- cos2θ = cos²θ - sin²θ 🎦 TRIG_DB_AG_ID_1.PNG
+        = 2cos²θ - 1
+        = 1 - 2sin²θ 
+        = (1 - tan²θ)/(1 + tan²θ))
 - tan2θ = 2tanθ / ( 1 - tan²θ)
 ### Triple-angle Identities
-- Cofunction Identities?
+### Cofunction Identities vs. Tranformation Identities?
+- 🎦 TRIG_CF_TR_ID_1.PNG
+- Cofunction identities relate trig functions of complementary angles (add to 90°/π/2), like sin(θ) = cos(90° - θ), showing how sine becomes cosine (its "co-function"). Transformation identities, on the other hand, use shifts (like π/2) to show equivalence, such as cos(x - π/2) = sin(x), revealing the sinusoidal graph's periodic nature and horizontal shifts between functions. The key difference is complementary angle relationships (cofunction) vs. graph shifts/periodicity (transformation)
 ## YouTube
 - https://www.youtube.com/shorts/28NMgU9WgCU 5⭐ Finger trick to find sin/cos/tan between 0 - 90
 - https://www.youtube.com/watch?v=YK7KoU6ELWg

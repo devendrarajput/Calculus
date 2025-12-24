@@ -12,6 +12,7 @@
 
 ## Identities
 ### Reciprocal Identities
+- 🎦 TRIG_REC_ID.PNG
 - cscθ = 1 / sinθ
 - secθ = 1 / cosθ
 - cotθ = 1 / tanθ
@@ -25,14 +26,14 @@
 - tan²θ + 1 = sec²θ 🎦 TRIG_PY_ID_2.PNG
 - 1 + cot²θ = cosec²θ 🎦 TRIG_PY_ID_3.PNG
 
-### Sum and Difference Identities
+### Sum and Difference Identities(aka Compound Identities)
 - sin(A + B) = sinA.cosB + cosA.sinB
 - sin(A - B) = sinA.cosB - cosA.sinB
 - cos(A + B) = cosA.cosB - sinA.sinB
 - cos(A - B) = cosA.cosB + sinA.sinB
-- tan(A + B) = (tanA + tanB) / (1 - tanA.tanB)
-- tan(A - B) = (tanA - tanB) / (1 + tanA.tanB)
-- cot(A + B) = cotA.cotB - 1 / cotB + cotA
+- tan(A + B) = (tanA + tanB) / (1 - tanA.tanB) 🎦 TRIG_CMP_ID_5.PNG
+- tan(A - B) = (tanA - tanB) / (1 + tanA.tanB) 🎦 TRIG_CMP_ID_6.PNG 
+- cot(A + B) = cotA.cotB - 1 / cotB + cotA 🎦 TRIG_CMP_ID_7.PNG 
 - cot(A - B) = cotA.cotB + 1 / cotB - cotA
 
 ### Sum and diff of two trig functions
@@ -129,7 +130,7 @@ cos & sec are even functions, rest all are odd functions
 ### Double-angle Identities
 - sin2θ = 2sinθcosθ 🎦 TRIG_DBL_AG_ID_1.PNG
         = 2tanθ / ( 1 + tan²θ)
-- cos2θ = cos²θ - sin²θ 🎦 TRIG_DBL_AG_ID_1.PNG
+- cos2θ = cos²θ - sin²θ 🎦 TRIG_DBL_AG_ID_2.PNG
         = 2cos²θ - 1
         = 1 - 2sin²θ 
         = (1 - tan²θ)/(1 + tan²θ))

@@ -46,7 +46,7 @@
 - U7_V4_Q4.PNG
     - U7_V4_A4.PNG
 ## Video 5
-### 7.6 General Solutions using separation of variables
+### 7.6 Separation Of Variables (General Solutions)
 - U7_V5_Q1.PNG
     - U7_V5_A1.PNG
 - U7_V5_Q2.PNG
@@ -56,5 +56,26 @@
 - U7_V5_Q4.PNG
     - U7_V5_A4.PNG
 ## Video 6
+### 7.7 Separation Of Variables (Particular Solutions)
+- U7_V6_Q1.PNG
+    - U7_V6_A1.PNG
+- U7_V6_Q2.PNG
+    - U7_V6_A2.PNG
+- U7_V6_Q3.PNG
+    - U7_V6_A3.PNG
+
 ## Video 7
+### 7.8 Exponential Models with Differential Equations
+- U7_V7_F1.PNG
+- U7_V7_Q1.PNG
+    - U7_V7_A1_1.PNG
+    - U7_V7_A1_2.PNG
+    - U7_V7_A1_3.PNG
+- U7_V7_Q2.PNG
+    - U7_V7_A2_1.PNG
+    - U7_V7_A2_2.PNG
+- U7_V7_Q3.PNG
+    - U7_V7_A3.PNG
+- U7_V7_Q4.PNG
+    - U7_V7_A4.PNG
 ## Video 8

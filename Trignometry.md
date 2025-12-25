@@ -27,7 +27,7 @@
 - 1 + cot²θ = cosec²θ 🎦 TRIG_PY_ID_3.PNG
 
 ### Sum and Difference Identities(aka Compound Identities)
-- sin(A + B) = sinA.cosB + cosA.sinB
+- sin(A + B) = sinA.cosB + cosA.sinB https://www.youtube.com/watch?v=1ERf3M131Ns
 - sin(A - B) = sinA.cosB - cosA.sinB
 - cos(A + B) = cosA.cosB - sinA.sinB
 - cos(A - B) = cosA.cosB + sinA.sinB
@@ -139,7 +139,7 @@ cos & sec are even functions, rest all are odd functions
 ### Triple-angle Identities
 - sin3θ = 3sinθ - 4sin³θ 🎦 TO-DO
 - cos3θ = 4cos³θ - 3cosθ
-- tan3θ = (3tanθ - tan³θ)/(1 - 3tan²θ)
+- tan3θ = (3tanθ - tan³θ)/(1 - 3tan²θ) https://www.youtube.com/watch?v=KnG9dNtfIdM
 
 
 ### Co-function Identities vs. Transformation Identities?

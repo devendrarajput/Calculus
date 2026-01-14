@@ -107,3 +107,10 @@
     - 🎦 U8_V7_A3.PNG
 - 🎦 U8_V7_Q4.PNG
     - 🎦 U8_V7_A4.PNG
+
+## Video 8
+- Volumes with Cross Sections: Triangles and Semicircles
+- 🎦 U8_V8_F1.PNG
+- 🎦 U8_V8_Q1.PNG
+    - Visualize https://youtu.be/eivHCSggrNg?t=54
+    - 🎦 U8_V8_A1.PNG

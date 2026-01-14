@@ -114,3 +114,14 @@
 - 🎦 U8_V8_Q1.PNG
     - Visualize https://youtu.be/eivHCSggrNg?t=54
     - 🎦 U8_V8_A1.PNG
+
+## Video 9
+- Volume with Disc Method: Revolving Around the x- or y-Axis
+- 🎦 U8_V9_Q1.PNG
+    - Visualize https://youtu.be/bbqmCGWtcDM?t=72
+    - 🎦 U8_V9_A1.PNG
+
+## Video 10
+## Video 11
+## Video 12
+## Video 13

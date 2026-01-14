@@ -17,7 +17,8 @@
 - Average Value of a function
     - 🎦 U8_V1_F2.PNG
     - It is the height of the rectangle with base as "a" and "b", such that the area of the rectangle is equal to the area under the curve in interval "a" to "b"
-
+- 🎦 U8_V1_Q1.PNG
+    - 🎦 U8_V1_A1.PNG
 ## Video 2
 ## Video 3
 ## Video 4

@@ -88,3 +88,22 @@
     - 🎦 U8_V5_A3_1.PNG
     - 🎦 U8_V5_A3_2.PNG
 
+## Video 6
+- Finding the Area Between Curves That Intersect at More Than Two Points
+- 🎦 U8_V6_Q1.PNG
+    - 🎦 U8_V6_A1.PNG
+- 🎦 U8_V6_Q2.PNG
+    - 🎦 U8_V6_A2.PNG
+
+## Video 7
+- Volumes with Cross Sections: Squares and Rectangles
+- 🎦 U8_V7_F1.PNG
+- 🎦 U8_V7_Q1.PNG
+    - Visualize https://youtu.be/ehb2Ykjr0hU?t=100
+    - 🎦 U8_V7_A1.PNG
+- 🎦 U8_V7_Q2.PNG
+    - 🎦 U8_V7_A2.PNG
+- 🎦 U8_V7_Q3.PNG
+    - 🎦 U8_V7_A3.PNG
+- 🎦 U8_V7_Q4.PNG
+    - 🎦 U8_V7_A4.PNG

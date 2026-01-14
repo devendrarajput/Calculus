@@ -59,4 +59,32 @@
     - 🎦 U8_V3_A4.PNG
 
 ## Video 4
+- Finding the Area between curves w.r.t x
+- Step 1: find the intersecting points by setting both equations equal to each other
+- Step 2: Figure out which graph is on top by finding the value of both functions using any value in the interval
+- 🎦 U8_V4_F1.PNG
+- 🎦 U8_V4_Q1.PNG
+    - 🎦 U8_V4_A1.PNG
+- 🎦 U8_V4_Q2.PNG
+    - 
+    - 🎦 U8_V4_A2.PNG
+- 🎦 U8_V4_Q3.PNG
+    - 🎦 U8_V4_Q3.PNG
+- 🎦 U8_V4_Q4.PNG
+    - Step 1: Enter both equations as "y1" and "y2" variable in calculator
+    - 🎦 U8_V4_A4.PNG
+- 🎦 U8_V4_Q5.PNG
+    - 🎦 U8_V4_A5.PNG
+
 ## Video 5
+- Finding the Area between curves w.r.t y
+    - Step 1: Rewrite all equations in terms of y
+    - Step 2: Start with the graph on right side
+- 🎦 U8_V5_Q1.PNG
+    - 🎦 U8_V5_A1.PNG
+- 🎦 U8_V5_Q2.PNG
+    - 🎦 U8_V5_A2.PNG
+- 🎦 U8_V5_Q3.PNG
+    - 🎦 U8_V5_A3_1.PNG
+    - 🎦 U8_V5_A3_2.PNG
+

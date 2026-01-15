@@ -126,6 +126,19 @@
     - 🎦 U8_V9_A3.PNG
 
 ## Video 10
+- Volume with Disc Method: Revolving Around Other Axes
+- 🎦 U8_V10_Q1.PNG
+    - 🎦 U8_V10_A1_1.PNG
+    - 🎦 U8_V10_A1_2.PNG
+- 🎦 U8_V10_Q2.PNG
+    - 🎦 U8_V10_A2.PNG
+
 ## Video 11
+- Washer Method: Revolving Around the x or y-Axis
+- 🎦 U8_V11_Q1.PNG
+    - 🎦 U8_V11_A1.PNG
+- 🎦 U8_V11_Q2.PNG
+    - 🎦 U8_V11_A2.PNG
+
 ## Video 12
 ## Video 13
